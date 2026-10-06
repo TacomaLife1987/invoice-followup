@@ -1,2 +1,2 @@
-# invoice-followup
-Polite overdue invoice chase emails for freelancers
+# Invoice Follow-up
+Static Vite build for Vercel.
